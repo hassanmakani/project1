@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* Books buying section starting  */
+
+.bookscard {
+    display: flex;
+    float: left;
+    margin-left: 116px;
+    margin-top: 14px;
+}
+
+.bubuttonbook1{
+    margin-top: 50px !important;
+}
+.bubuttonbook2{
+    margin-top: 35px !important;
+}
+.bubuttonbook3{
+    margin-top: 78px !important;
+}
+.bubuttonbook4{
+    margin-top: 103px !important;
+}
+.bubuttonbook5{
+    margin-top: 34px !important;
+}
+.spaned231{
+    margin-top: -13px;
+}
+.bubuttonbook6{
+    margin-top: 62px !important;
+}
+
+.modalsimahes {
+    height: 459px;
+    width: 100%;
+}
+.modal-dialog {
+    position: relative;
+    width: auto;
+    margin-left: 439px !important;
+    margin: 0.5rem;
+    margin-top: 128px !important;
+    pointer-events: none;
+}
+
+.modal-content {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 135% !important;
+    height: 800px !important;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    outline: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.box1book {
+    height: 495px;
+    width: 363px;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 10px;
+  
+    transition-duration: 1s;
+    color: rgb(0, 0, 0);
+    margin: 50px;
+}
+.box1book:hover{
+    transform: scale(1.1);
+      
+}
+.booknames {
+    margin-left: 27px;
+    margin-top: 13px;
+    font-family: inherit;
+}
+.booknames1 {
+    margin-left: 14px;
+    margin-top: 13px;
+    font-family: inherit;
+    width: 400px;
+    margin-bottom: 16px;
+}
+.booknames6 {
+    margin-left: 0px;
+    margin-top: 13px;
+    font-family: inherit;
+    width: 452px;
+    margin-bottom: 16px;
+    font-size: 31px;
+}
+.booknames3 {
+    margin-left: 10px;
+    margin-top: 13px;
+    font-family: inherit;
+    width: 400px;
+    font-size: 36px;
+    margin-bottom: 16px;
+}
+.bubuttonbook {
+    margin-left: 61px;
+    margin-top: 28px;
+    width: 200px;
+    height: 32px;
+    color: white;
+    background-image: url(Frame\ 22.png);
+    border: none;
+}
+.aboutbook {
+    margin-left: 24px;
+    margin-top: -34px;
+    width: 306px;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.booksimages {
+    height: 193px;
+    width: 350px;
+    margin-left: -5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+     font-family: initial;
+     display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background: #fafafa;
+
+}
+.wrapper h1{
+    font-size: 3rem;
+    margin: 25px 0;
+    text-align: center;
+    font-weight: 500;
+}
+.content-box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin-top: 30px;
+}
+.card{
+    min-height: 220px;
+    width: 320px;
+    padding: 30px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #fff;
+    margin: 10px 4px;
+    box-shadow: 0px 15px 20px rgba(0,0,0,0.2);
+}
+.card h2{
+    margin-bottom: 12px;
+    font-weight: 400;
+    text-align: center;
+}
+
+img{
+    background-size: cover;
+    height: 130px;
+    width: 170px;
+}
+.carousel-item{
+    height: 800px;
+    width: 200px;
+}
+.carousel-item img{
+    height: 100vh !important; 
+}
+.btc{
+    padding: 2px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    border: 2px solid white;
+}
+.btc :hover{
+    color: turquoise;
+    background-color: black;
+}

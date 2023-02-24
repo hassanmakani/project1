@@ -1,0 +1,1070 @@
+*{
+    margin: 0px;
+}
+
+/* Media  */
+@media (min-width: 576px) { 
+    .header{
+        height: 707px;
+    }
+ /* Media  */
+
+/* NavBar starting  */
+.li2{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    
+   
+}
+.logonav {
+    height: 135px;
+    margin-top: -117px;
+    margin-left: -11px;
+}
+.ul76{
+    height: 55px;
+    background-color: #1D7874;
+
+    animation-name: ulani;
+   animation-duration: 4s;
+
+
+}
+.fa-user {
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.li54 {
+    list-style: none;
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-top: -30px;
+    margin-bottom: 0px;
+    margin-left: 1337px;
+    margin-right: -37px;
+    font-size: 22px;
+    
+}
+.li54:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.h55 {
+    font-size: 26px;
+    margin-top: -8px;
+    margin-left: -6px;
+    margin-right: 12px;
+}
+
+
+.navbb{
+    margin-left: 78px;
+    margin-top: 0px;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+    font-size: 24px;
+
+}
+.links{
+    color: rgb(0, 89, 255) !important;
+    text-decoration: underline !important;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 428px;
+    margin-right: 0px;
+}
+.a3{
+    border-left: 3px solid white;
+    padding: 4px;
+    
+}
+.a5i{
+   
+    padding-left:18px ;
+    
+}
+.a42{
+    border-right: 3px solid white;
+    padding-left:18px ;
+    padding-right:18px ;
+
+    
+}
+.a33{
+    border: none;
+}
+.a41{
+    padding-left: 18px;
+}
+.a3:hover{
+   cursor: pointer;
+   color: rgb(219, 219, 218) !important;
+   
+
+}
+@keyframes ulani{
+
+    0% { border-radius: 200px;}
+    50% {border-radius: none;}
+    
+
+
+}
+
+
+
+.a2{
+    color: black !important;
+    font-size: 15px;
+    background-color: white !important;
+    
+
+}
+.a2:hover{
+    background-color: #1D7874 !important;
+    transition-duration: 170ms;
+  color: white !important;
+   
+}
+.dropfes{
+    border-right: 2px solid white;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 24px !important;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    transition-duration: 170ms;
+    
+
+}
+.li87{
+    background-color: transparent !important;
+
+}
+
+
+  
+.dropfes:hover{
+    color: rgb(195, 195, 195)  !important;
+
+}
+.form-control{
+    width: 220px !important;
+    background-color: transparent !important;
+    margin-top: -37px;
+    margin-bottom: 38px;
+    margin-left: 919px;
+    
+}
+.form-control::placeholder{
+    color: rgb(255, 255, 255) !important;
+}
+
+.navb{
+    margin-top: -37px;
+    margin-left: 12px;
+    box-shadow: none;
+    margin-bottom: 38px;
+    color: white !important;
+    border: 1px solid  white !important ;
+}
+.navb:hover{background-color: rrgb(21, 255, 0)}
+    
+.logo {
+    height: 74px;
+    margin-top: -294px;
+    margin-bottom: -164px;
+    margin-left: 13px;
+}
+/* NavBar ending  */
+
+/* Modal  */
+.model {
+    background-image: url(Modal.png);
+    width: 626px;
+    height: 629px;
+    margin-top: -440px;
+    margin-bottom: 2px;
+    margin-left: 469px;
+    margin-right: 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: none;
+   
+}
+.eph {
+    margin-top: 326px;
+    margin-bottom: 0px;
+    margin-left: 26px;
+    margin-right: 2px;
+    width: 510px;
+    height: 35px;
+    border-radius: 10px ;
+    border: 1px solid  #2673AB;
+    padding: 5px;
+    background: transparent;
+
+    
+}
+.nph{
+    margin-top: 326px;
+    margin-bottom: 0px;
+    margin-left: 26px;
+    margin-right: 2px;
+    width: 510px;
+    height: 35px;
+    border-radius: 10px ;
+    border: 1px solid  #2673AB;
+    padding: 5px;
+    background: transparent;
+    display: none;
+}
+.pphs{
+    margin-top: 36px;
+    margin-bottom: 0px;
+    margin-left: 26px;
+    margin-right: 2px;
+    width: 510px;
+    height: 35px;
+    border-radius: 10px ;
+    border: 1px solid  #2673AB;
+    padding: 5px;
+    background: transparent;
+}
+.ready {
+    margin-top: 57px;
+    margin-bottom: 0px;
+    margin-left: 92px;
+    margin-right: 2px;
+    width: 400px;
+    height: 47px;
+    font-size: 23px;
+    font-style: initial;
+    border: 2px solid #2673AB;
+    color: black;
+    background: transparent;
+    border-radius: 5px;
+
+}
+.ready:hover{
+    background-color: #2673AB;
+    color: white;
+    transition-duration: 150ms;
+    border: 2px solid #91c5eb ;
+}
+.phh{
+    display: none;
+}
+.phhb{
+    background-color: transparent;
+    border-radius: 5px;
+    color: darkblue;
+    border: 1px solid #2673AB ;
+    font-weight: 250;
+    
+}
+.phhss{
+    background-color: transparent;
+    border-radius: 5px;
+    color: darkblue;
+    border: 1px solid #2673AB ;
+    font-weight: 250;
+   
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+.phhb:hover{
+    background-color: #6da3ca;
+    color: white;
+}
+.fa-xmark {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 578px;
+    margin-right: 0px;
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 5px;
+    padding-left: 16px;
+    padding-right: 15px;
+    border-top-right-radius: 8px;
+}
+.fa-xmark:hover{
+    background-color: rgb(255, 63, 63);
+}
+/* modal  */
+
+
+/* Header starting  */
+
+
+ }
+.header{
+    background-image: url(Header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 707px;
+    margin-top: -40px;
+  width: 100%;
+
+
+
+  
+}
+@media (max-width: 575.98px) { 
+    .header{
+        background-image: url(Header.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 707px;
+        margin-top: -40px;
+      width: 100%;
+    
+    }
+    .headerh1{
+        color: white !important;
+        
+        font-size: 50px !important ;
+        }
+ }
+
+
+.showusthing{
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-top: 15px;
+    
+}
+.anotherhead {
+    margin-top: 0px;
+    padding-top: 285px;
+}
+.headerh1{
+color: white;
+
+font-size: 50px;
+}
+.headerh2{
+color: white;
+
+font-weight: 600;
+    
+}
+.headerh4{
+color: white;
+border-left: 5px solid white;
+height: 85px;
+padding-left: 5px;
+    
+}
+.ihidethisforitsgood{
+    color: white;
+padding-left: 5px;
+width: 1000px;
+display: none;
+}
+.headings{
+    
+    margin-bottom: 2px;
+    margin-left: 72px;
+    margin-right: 2px;
+}
+.buttonh1{
+    color: black !important;
+
+    margin-top: -204px;
+    margin-bottom: 2px;
+    margin-left: 91px;
+    margin-right: 2px;
+}
+.buttona{
+    color: rgb(182, 205, 253) !important;
+    font-weight: 450;
+
+    
+    
+}
+ 
+/* Header ending  */
+
+/* Festivals starting  */
+.festivals{
+   
+   
+    margin-top: 0px;
+   display: flex;
+    height: 800px;
+    width: 100%;
+    justify-content: center;
+    background-image: url(Festivals.png);
+}
+
+
+.fesinner {
+    height: 600px;
+    padding-left: 20px;
+    width: 1020px;
+  
+    
+    margin-top: 76px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    display: flex;
+    float: left;
+    border-radius: 10px;
+}
+
+.fesinner2{
+    display: flex;
+    float: left;
+    margin-left: -60px;
+}
+.downer {
+    height: 250px;
+    width: 250px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: -265px;
+    border-radius: 10px;
+}
+.box1 {
+    display: flex;
+   
+    width: 250px;
+    height: 250px;
+    margin-top: 215px;
+    margin-left: 90px;
+}
+.box2 {
+    display: flex;
+   
+    width: 250px;
+    height: 250px;
+    margin-top: 215px;
+    margin-left: 90px;
+}
+.box3 {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    margin-top: 215px;
+    margin-left: 90px;
+    transition: ease-in;
+}
+.box1:hover{
+    transform: scale(1.1);
+    transition-duration: 300ms;
+   border-top: 2px solid black !important;
+
+   cursor: pointer;
+   animation: step-end;
+}
+.box2:hover{
+    transform: scale(1.1);
+    transition-duration: 300ms;
+
+    cursor: pointer;
+   animation: step-end;
+}
+.box3:hover{
+    transform: scale(1.1);
+   transition-duration: 300ms;
+   animation: step-end;
+   cursor: pointer;
+}
+
+.festivalheadingss {
+    margin-top: 108px;
+    margin-bottom: 2px;
+    margin-left: -247px;
+    margin-right: -265px;
+    font-size: 31px;
+    color: white;
+    font-weight: 300;
+    cursor: default;
+  
+  
+    
+}
+
+.festivalheadingssh {
+    margin-top: -14px !important;
+    margin-bottom: 2px !important;
+    margin-left: -321px !important;
+    margin-right: -286px !important;
+    font-size: 31px !important;
+    color: white !important;
+    font-weight: 300 !important;
+    cursor: pointer !important;
+    height: 140px !important;
+    width: 136px !important;
+    padding: 123px !important;
+    padding-left: 95px !important;
+    padding-bottom: 141px !important;
+    padding-right: 164px !important;
+ 
+ 
+    
+}
+
+.festivalheadingssh2 {
+    margin-top: -15px !important;
+    margin-bottom: 2px !important;
+    margin-left: -322px !important;
+    margin-right: -286px !important;
+    font-size: 31px !important;
+    color: white !important;
+    font-weight: 300 !important;
+    cursor: pointer !important;
+    height: 140px !important;
+    width: 136px !important;
+    padding: 123px !important;
+    padding-left: 73px !important;
+    padding-bottom: 141px !important;
+    padding-right: 181px !important;
+  
+}
+    .festivalheadingssh3 {
+        margin-top: -14px !important;
+        margin-bottom: 2px !important;
+        margin-left: -319px !important;
+        margin-right: -286px !important;
+        font-size: 31px !important;
+        color: white !important;
+        font-weight: 300 !important;
+        cursor: pointer !important;
+        height: 140px !important;
+        width: 136px !important;
+        padding: 123px !important;
+        padding-left: 81px !important;
+        padding-bottom: 141px !important;
+        padding-right: 173px !important;
+       
+    }
+ 
+
+.upper {
+    height: 139px;
+    margin-top: -88px;
+    margin-bottom: 2px;
+    margin-left: -47px;
+    margin-right: 2px;
+}
+/* Festivals ending  */
+
+/* Cards starting  */
+.cards{
+   padding: 10px;
+    height: 900px;
+    border-top: 10px solid #54AAA6;
+   background-image: url(About\ festival.png);
+   background-color: #555 !important;
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+}
+
+.texts123 {
+    margin-top: 60px;
+    margin-bottom: 2px;
+    margin-left: 43px;
+    margin-right: 2px;
+    width: 580px;
+}
+
+.cardsheading429{
+    font-weight: 200;
+    font-family: "Times New Roman", Times, serif;
+   
+
+}
+
+.cardsheading430{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 200;
+}
+.cardsheading431{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 200;
+    
+}
+.cardspara123{
+    font-family: "Lucida Console", "Courier New", Cursive;
+    
+}
+.cardspara124{
+    font-family: "Lucida Console", "Courier New", Cursive;
+}
+.cardspara125{
+    font-family: "Lucida Console", "Courier New", Cursive;
+}
+
+/* Cards ending  */
+/* back to top  */
+
+#button {
+    padding-top: 6px;
+    display: inline-block;
+    background-color: #184745;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 600px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, 
+      opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+  }
+ 
+  #button:hover {
+    cursor: pointer;
+    background-color: #333;
+  }
+  #button:active {
+    background-color: #555;
+  }
+  #button.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  /* Styles for the content section */
+  
+  .content {
+    width: 77%;
+    margin: 50px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    color: #6c767a;
+    line-height: 1.9;
+  }
+  @media (min-width: 500px) {
+    .content {
+      width: 43%;
+    }
+    #button {
+      margin: 30px;
+    }
+  }
+  .content h1 {
+    margin-bottom: -10px;
+    color: #03a9f4;
+    line-height: 1.5;
+  }
+  .content h3 {
+    font-style: italic;
+    color: #96a2a7;
+  }
+/* back to top */
+
+/* more starting  */
+.more{
+  
+   
+  
+}
+.moreboxed1{
+    background-image: url(desk-593327_1920.jpg);
+    background-size: cover;
+    height: 550px;
+    width: 271px;
+    margin-top: -28px;
+    margin-bottom: 14px;
+    margin-left: 321px;
+    margin-right: 2px;
+    padding-top: 254px;
+    transition-duration: 1s;
+border-radius: 25px;
+
+}
+.moreboxed1:hover{
+    transform:scale();
+    opacity: 80%;
+
+}
+.moreboxed2:hover{
+    transform:scale();
+    opacity: 80%;
+
+}
+
+.moreboxed2 {
+    background-image: url(Frame\ 23.png);
+    background-size: contain;
+    height: 550px;
+    width: 271px;
+    margin-top: -564px;
+    margin-bottom: 45px;
+    margin-left: 989px;
+    padding-top: 253px;
+    padding-left: 37px;
+    margin-right: 2px;
+    transition-duration: 1s;
+border-radius: 25px;
+}
+.moreas2 {
+ 
+    padding-top: 256px;
+    padding-left: 84px;
+    padding-right: 74px;
+    padding-bottom: 262px;
+    margin-left: 0px;
+    margin-top: -30px;
+}
+.moreas3 {
+   
+    padding-top: 256px;
+    padding-left: 67px;
+    padding-right: 54px;
+    padding-bottom: 262px;
+    margin-left: -36px;
+    margin-top: -30px;
+}
+/* more ending  */
+
+
+/* Footer starting  */
+.footer452{
+    height: 500px;
+    width: 100%;
+    background-color: #181818;
+    margin-bottom: -36px;
+   
+ 
+}
+.footerlogo{
+    height: 200px;
+    margin-top: -42px;
+}
+.thingsomg123 {
+    color: white;
+    margin-top: -112px;
+    margin-bottom: 2px;
+    margin-left: 287px;
+    margin-right: 2px;
+    display: flex;
+
+}
+.socialmedianames {
+    color: white;
+    margin-top: -152px;
+    margin-bottom: 2px;
+    margin-left: 557px;
+    margin-right: 2px;
+}
+.socialmedianamesigotit:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.socialmedianamesigotit{
+    border-left: 3px solid #1D7874;
+    padding-left: 9px;
+    width: 150px;
+}
+.socialmedia123:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.names241:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.names241 {
+    color: white;
+    margin-top: 8px;
+    margin-left: 291px;
+    border-left: 3px solid #1D7874;
+    padding-left: 9px;
+    width: 20px;
+}
+.bugreport:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.aboutus123:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.socialmedia123{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px solid #1D7874;
+}
+.bugreport{
+    border-bottom: 3px solid #1D7874;
+
+}
+.aboutus123{
+    border-bottom: 3px solid #1D7874;
+    
+}
+.bugrpinput12{
+    height: 47px;
+    width: 300px;
+    max-height: 47px;
+    background-color: transparent;
+    border: 2px solid #1D7874;
+    padding: 5px;
+    color: white;
+}
+.bugsubmitbt1 {
+    background-color: transparent;
+    border: 2px solid #1D7874;
+    color: white;
+    width: 200px;
+    margin-top: 9px;
+}
+.bugsubmitbt1:hover{
+   background-color: #1D7874;
+   transition-duration: 1s;
+   transform: rotate(360deg);
+
+}
+.bugrp {
+    margin-top: -144px;
+    margin-bottom: 2px;
+    margin-left: 846px;
+    margin-right: 4px;
+}
+.bugrpinput {
+    width: 299px;
+    background-color: transparent;
+    border: 2px solid #1D7874;
+    padding: 5px;
+    color: white;
+
+}
+.bugrpinput::placeholder{
+    color: rgb(179, 178, 178);
+}
+.bugrpinput12::placeholder{
+    color: rgb(179, 178, 178);
+}
+.survice {
+    border-top: 1px solid gray;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    margin-left: 98px;
+    margin-top: 175px;
+}
+.footeras12545 {
+    text-decoration: underline !important;
+    margin: 50px;
+    color: #b7b7b7 !important;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.footerh65464{
+    margin-top: 10px;
+}
+/* Footer ending  */
+
+
+/* Sign in starting  */
+.loginheading1 {
+    color: white;
+    font-weight: 250;
+    font-size: 60px;
+    margin-left: -20px;
+    margin-bottom: 10px;
+}
+.loginheading2{
+    color: white;
+    font-weight: 250;
+    font-size: 25px;
+    text-align: center;
+    width: 356px;
+}
+.innnerheading123{
+    margin-top: 6px;
+}
+
+.headings245 {
+    margin-top: 191px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    margin-left: 72px;
+}
+.signinbutton{
+    margin-top: 47px;
+    margin-bottom: 2px;
+    margin-left: 139px;
+    margin-right: 2px;
+    font-size: 21px;
+    width: 200px;
+    height: 49px;
+    color: white;
+    border-radius: 30px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+.signinbutton:hover{
+    background-color: #4faaa6;
+    transition-duration: 1s;
+
+}
+
+.inputs241 {
+    margin-top: -340px;
+    margin-bottom: 18px;
+    margin-left: 606px;
+    margin-right: 2px;
+}
+.emailinput {
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient( #40aaa5,#13746d) 1;
+    background-color: transparent;
+    height: 39px;
+    width: 608px;
+   padding: 5px;
+   margin-bottom: 15px;
+
+}
+.username{
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient( #40aaa5,#13746d) 1;
+
+    background-color: transparent;
+    height: 39px;
+    width: 608px;
+   padding: 5px;
+   margin-bottom: 15px;
+
+}
+.passowrdenter{
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient( #40aaa5,#13746d) 1;
+
+    background-color: transparent;
+    height: 39px;
+    width: 608px;
+   padding: 5px;
+   margin-bottom: 15px;
+}
+.passowrdenter2{
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient( #40aaa5,#13746d) 1;
+
+    background-color: transparent;
+    height: 39px;
+    width: 608px;
+   padding: 5px;
+
+}
+.iputheadinge {
+    font-size: 60px;
+    font-weight: 400;
+    color: #1D7874;
+    
+}
+.logingp{
+    color: rgb(167, 167, 167);
+    margin-bottom: 38px;
+}
+
+.submitloginbt1 {
+    background: linear-gradient(93deg, #40ada8 0%, #146965 100%);
+    height: 53px;
+    width: 266px;
+    border-radius: 25px;
+    margin-top: 35px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: none;
+    color: white;
+    font-size: 21px;
+    font-weight: 200;
+    transition-duration: 1s;
+    
+}
+.submitloginbt1:hover{
+    background: linear-gradient(93deg, #156864 , #0d4e4b 100%);
+    cursor: pointer;
+    transition-duration: 260ms;
+}
+
+body{
+    max-width: 1641px;
+}
+/* About us starting  */
+.carded1aboutus {
+    text-align: center;
+    width: 240px;
+    margin-left: 50px;
+    border-radius: 30px;
+    height: 332px;
+    margin: 80px;
+    background-color: #DDDDD4;
+    transition-duration: 1s;
+}
+.carded1aboutus:hover{
+    transform: scale(1.2);
+    cursor: default;
+}
+.cardedimg{
+    height: 240px;
+}
+.carded1aboutus{
+    text-align: center;
+    
+}
+.aboutussect12{
+    border-bottom: 2px solid black;
+    text-align: center;
+    font-family: cursive;
+}
+.aboutusdivs{
+    display: flex;
+    float: left;
+
+
+
+    margin-top: 2px;
+}
+.linked453{
+    text-decoration: underline !important;
+    color: black !important;
+    font-size: 18px;
+}
+.aboutused{
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 313px;
+}
+.aboutsite3{
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 372px;
+}
+.aboutsite{
+    width: 800px;
+    margin-left: 10px;
+}

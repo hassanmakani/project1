@@ -1,0 +1,835 @@
+
+
+
+
+.box{
+    height: 850px;
+    width: 100%;
+}
+
+/* NavBar starting  */
+.li2{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    
+   
+}
+
+.ul76{
+    height: 55px;
+    background-color: #1D7874;
+
+    animation-name: ulani;
+   animation-duration: 4s;
+
+
+}
+.fa-user {
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.li54 {
+    list-style: none;
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-top: -30px;
+    margin-bottom: 0px;
+    margin-left: 1337px;
+    margin-right: -37px;
+    font-size: 22px;
+    
+}
+.li54:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.h55 {
+    font-size: 26px;
+    margin-top: -8px;
+    margin-left: -6px;
+    margin-right: 12px;
+}
+
+
+.navbb{
+    margin-left: 78px;
+    margin-top: 0px;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+    font-size: 24px;
+
+}
+.links{
+    color: rgb(0, 89, 255) !important;
+    text-decoration: underline !important;
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 428px;
+    margin-right: 0px;
+}
+.a3{
+    border-left: 3px solid white;
+    padding: 4px;
+    
+}
+.a42{
+    border-right: 3px solid white;
+    padding-left:18px ;
+    padding-right:18px ;
+
+    
+}
+.a33{
+    border: none;
+}
+.a41{
+    padding-left: 18px;
+}
+.a3:hover{
+   cursor: pointer;
+   color: rgb(219, 219, 218) !important;
+   
+
+}
+@keyframes ulani{
+
+    0% { border-radius: 200px;}
+    50% {border-radius: none;}
+    
+
+
+}
+
+
+
+/* about muslim festivals starting  */
+
+.aboutmuslimfestivalsbox8{
+    width: 1583px;
+    height: 633px;
+    background-image: url(Frame\ 20\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: none;
+}
+.texhingthatneverhance8 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+
+    width: 554px;
+}
+.eiduladhamuslimfestivals8 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 187px;
+}
+.eiduladhaparagrachman8 {
+    font-family: math;
+    font-size: 18px;
+}
+
+.aboutmuslimfestivalsbox7{
+    width: 1583px;
+    height: 633px;
+    background-image: url(frame\ 19\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: none;
+}
+.texhingthatneverhance7 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+
+    width: 554px;
+}
+.eiduladhamuslimfestivals7 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 400px;
+}
+.eiduladhaparagrachman7 {
+    font-family: math;
+    font-size: 18px;
+}
+
+
+
+.aboutmuslimfestivalsbox6{
+    width: 1583px;
+    height: 633px;
+    background-image: url(frame\ 18\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: none;
+}
+.texhingthatneverhance6 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+
+    width: 554px;
+}
+.eiduladhamuslimfestivals6 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 306px;
+}
+.eiduladhamuslimfestivals {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 118px !important;
+}
+.eiduladhaparagrachman6 {
+    font-family: math;
+    font-size: 18px;
+}
+
+
+.aboutmuslimfestivalsbox5{
+    width: 1583px;
+    height: 633px;
+    background-image: url(Frame\ 17\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: none;
+}
+.texhingthatneverhance5 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+
+    width: 554px;
+}
+.eiduladhamuslimfestivals5 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 230px;
+}
+.eiduladhaparagrachman5 {
+    font-family: math;
+    font-size: 18px;
+}
+
+
+
+.aboutmuslimfestivalsbox4{
+    width: 1583px;
+    height: 633px;
+    background-image: url(Frame\ 16\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: none;
+}
+.texhingthatneverhance4 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+
+    width: 554px;
+}
+.eiduladhamuslimfestivals4 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 81px;
+}
+.eiduladhaparagrachman4 {
+    font-family: math;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+.itstimetoshow {
+    margin-top: 2px;
+    margin-bottom: 25px;
+    margin-left: 553px;
+    margin-right: 2px;
+    width: 450px;
+    height: 50px;
+    border-radius: 10px;
+    background-image: url(button.png);
+    border: none;
+    font-size: 23px;
+    color: white;
+    font-family: cursive;
+}
+.itstimetoshow2{
+    margin-top: 2px;
+    margin-bottom: 25px;
+    margin-left: 553px;
+    margin-right: 2px;
+    width: 450px;
+    height: 50px;
+    border-radius: 10px;
+    background-image: url(button.png);
+    border: none;
+    font-size: 23px;
+    color: white;
+    font-family: cursive;
+    display: none;
+}
+
+
+
+.aboutmuslimfestivalsbox1 {
+    width: 1583px;
+    height: 633px;
+    background-image: url(Frame\ 13\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aboutmuslimfestivalsbox2{
+    width: 1583px;
+    height: 633px;
+    background-image: url(Frame\ 14\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.aboutmuslimfestivalsbox3{
+    width: 1583px;
+    height: 633px;
+    background-image: url(Frame\ 15\ hindu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.texhingthatneverhance3 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+
+    width: 554px;
+}
+.eiduladhamuslimfestivals3 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 312px;
+}
+.eiduladhaparagrachman3 {
+    font-family: math;
+    font-size: 18px;
+}
+.texhingthatneverhance2 {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+    width: 554px;
+}
+.eiduladhamuslimfestivals2 {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 318px;
+}
+.eiduladhaparagrachman2 {
+    font-family: math;
+    font-size: 18px;
+}
+.texhingthatneverhance {
+    padding-top: 104px;
+    margin-bottom: -13px;
+    margin-left: 41px;
+    margin-right: 2px;
+    width: 402px;
+}
+.eiduladhamuslimfestivals {
+    font-family: cursive;
+    margin-bottom: 16px;
+    border-bottom: 3px solid black;
+    width: 221px;
+}
+.eiduladhaparagrachman {
+    font-family: math;
+    font-size: 18px;
+}
+/* about muslim festivals ending  */
+.a2{
+    color: black !important;
+    font-size: 15px;
+    background-color: white !important;
+    
+
+}
+.a2:hover{
+    background-color: #1D7874 !important;
+    color: white !important;
+    transition-duration: 170ms;
+  
+   
+}
+.dropfes{
+    border-right: 2px solid white;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 24px !important;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    transition-duration: 170ms;
+    
+
+}
+.li87{
+    background-color: transparent !important;
+
+}
+
+
+  
+.dropfes:hover{
+    color: rgb(195, 195, 195)  !important;
+
+}
+.form-control{
+    width: 220px !important;
+    background-color: transparent !important;
+    margin-top: -37px;
+    margin-bottom: 38px;
+    margin-left: 919px;
+    
+}
+.form-control::placeholder{
+    color: rgb(255, 255, 255) !important;
+}
+
+.navb{
+    margin-top: -37px;
+    margin-left: 12px;
+    box-shadow: none;
+    margin-bottom: 38px;
+    color: white !important;
+    border: 1px solid  white !important ;
+}
+.navb:hover{background-color: rrgb(21, 255, 0)}
+    
+.logonav {
+    height: 132px;
+    margin-top: -276px;
+    margin-bottom: -164px;
+    margin-left: -7px;
+}
+/* NavBar ending  */
+#a1{
+    /* background-color:rgb(63, 0, 63) ; */
+ background-image: url(Hindufestivalsheaderimage.png);
+    background-repeat: no-repeat ;background-size: cover; 
+    height: 700px !important;
+    margin-top: -40px;
+}
+.textheadermuslim {
+    margin-top: 61px;
+    margin-bottom: 2px;
+    margin-left: 1048px;
+    margin-right: 2px;
+    padding: 8px;
+}
+.headerbuntton231{
+    background-color: transparent;
+    border: none;
+    margin-left: -7px;
+}
+.headerheading562 {
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    border-bottom: 3px solid white;
+    width: 256px;
+    margin-bottom: 21px;
+}
+.headngparagrach{
+color: white;
+}
+.animationheadermuslim {
+    height: 417px;
+    width: 651px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+   display: none;
+    border-radius: 35px;
+    animation-name: headeranimationmuslim;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    background-size: cover;
+   
+}
+
+.doityarrinner {
+    padding-top: 92px;
+    margin-bottom: 2px;
+    margin-left: 109px;
+    margin-bottom: 2px;
+}
+
+.center{
+    display: flex;
+    position: relative;
+    justify-content:center; 
+ }
+ 
+ .main{
+ 
+    height: 150px; width: 300px;
+   
+    text-align:center;
+    position: relative;  
+    top:150px;
+    color: rgb(255, 98, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+        font-weight:900 ;
+        margin-left: -554px;
+    
+
+    
+  
+ }
+ .ww{
+     font-size: 15px;
+     color: aliceblue;
+     
+ }
+ 
+ 
+ .tt{
+    display: flex;
+    position: relative;
+    justify-content:center;
+    
+ 
+ }
+ 
+ .zip {
+    width: 200px;
+    height: 200px;
+    margin-right: 70px;
+    margin-left: 70px;
+    text-align: center;
+    position: relative;
+    border: 9px solid #ffaaff;
+    top: 380px;
+    transition-duration: 1s;
+}
+ .zip:hover{
+    transform: scale(1.2);
+    
+ }
+ 
+
+
+
+.aboutmuslimfsetivals{
+    height: 400px;
+    width: 100%;
+    background-color: red;
+}
+
+
+#a2{
+   
+    /* background-color: rgba(134, 55, 170, 0.699); */
+   background-image: url(images\ background\ hindu.png);
+    display: flex;
+    background-repeat: no-repeat;
+    width: 1583px;
+    background-size: cover;
+   }
+   .teaxtlikethings {
+    margin-top: 208px;
+    margin-bottom: 2px;
+    margin-left: 78px;
+    margin-right: 2px;
+    width: 700px;
+    color: white;
+}
+.headings3414{
+    border-bottom: 3px solid white;
+    width: 172px;
+    font-family: ui-serif,emoji,cursive;
+}
+.islamicparagrapch{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+   .logo{
+    margin-left: 120px;
+    align-items: center;
+    display: flex;
+    color: rgb(7, 7, 7);
+    font-style: italic;
+    font-size:30px;
+    display: none;
+   }
+
+   .img{
+    margin-left: 150px;
+    margin-right: 120px;
+    /* margin-top: 250px; */
+    align-items: center;
+    display: flex;
+    transition-duration: 1s;
+
+   }
+   .img:hover{
+   transform: rotate(360deg);
+   animation-name: hovers;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+    
+   }
+   @keyframes hovers{
+       10% {margin-top: 80px;}
+       20%  {margin-bottom: 80px;}
+
+       
+   }
+.qwe{
+
+display: none;
+   
+    border-radius: 30px;
+}
+
+
+
+
+/* about muslim festivals starting  */
+
+
+
+
+
+
+/* Footer starting  */
+.footer452{
+    height: 500px;
+    width: 100%;
+    background-color: #181818;
+    margin-bottom: -36px;
+   
+ 
+}
+.footerlogo{
+    height: 200px;
+    margin-top: -42px;
+}
+.thingsomg123 {
+    color: white;
+    margin-top: -112px;
+    margin-bottom: 2px;
+    margin-left: 287px;
+    margin-right: 2px;
+    display: flex;
+
+}
+.socialmedianames {
+    color: white;
+    margin-top: -152px;
+    margin-bottom: 2px;
+    margin-left: 557px;
+    margin-right: 2px;
+}
+.socialmedianamesigotit:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.socialmedianamesigotit{
+    border-left: 3px solid #1D7874;
+    padding-left: 9px;
+    width: 150px;
+}
+.socialmedia123:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.names241:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.names241 {
+    color: white;
+    margin-top: 8px;
+    margin-left: 291px;
+    border-left: 3px solid #1D7874;
+    padding-left: 9px;
+    width: 20px;
+}
+.bugreport:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.aboutus123:hover{
+    color: #1D7874;
+    cursor: default;
+}
+.socialmedia123{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-bottom: 3px solid #1D7874;
+}
+.bugreport{
+    border-bottom: 3px solid #1D7874;
+
+}
+.aboutus123{
+    border-bottom: 3px solid #1D7874;
+    
+}
+.bugrpinput12{
+    height: 47px;
+    width: 300px;
+    max-height: 47px;
+    background-color: transparent;
+    border: 2px solid #1D7874;
+    padding: 5px;
+    color: white;
+}
+.bugsubmitbt1 {
+    background-color: transparent;
+    border: 2px solid #1D7874;
+    color: white;
+    width: 200px;
+    margin-top: 9px;
+}
+.bugsubmitbt1:hover{
+   background-color: #1D7874;
+   transition-duration: 1s;
+   transform: rotate(360deg);
+
+}
+.bugrp {
+    margin-top: -144px;
+    margin-bottom: 2px;
+    margin-left: 846px;
+    margin-right: 4px;
+}
+.bugrpinput {
+    width: 299px;
+    background-color: transparent;
+    border: 2px solid #1D7874;
+    padding: 5px;
+    color: white;
+
+}
+.bugrpinput::placeholder{
+    color: rgb(179, 178, 178);
+}
+.bugrpinput12::placeholder{
+    color: rgb(179, 178, 178);
+}
+.survice {
+    border-top: 1px solid gray;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    margin-left: 98px;
+    margin-top: 175px;
+}
+.footeras12545 {
+    text-decoration: underline !important;
+    margin: 50px;
+    color: #b7b7b7 !important;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.footerh65464{
+    margin-top: 10px;
+}
+/* Footer ending  */
+
+/* back to top  */
+
+#button {
+    padding-top: 6px;
+    display: inline-block;
+    background-color: #184745;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 600px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, 
+      opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+  }
+ 
+  #button:hover {
+    cursor: pointer;
+    background-color: #333;
+  }
+  #button:active {
+    background-color: #555;
+  }
+  #button.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  /* Styles for the content section */
+  
+
+  .content {
+    width: 77%;
+    margin: 50px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    color: #6c767a;
+    line-height: 1.9;
+  }
+  @media (min-width: 500px) {
+    .content {
+      width: 43%;
+    }
+    #button {
+      margin: 30px;
+    }
+  }
+  .content h1 {
+    margin-bottom: -10px;
+    color: #03a9f4;
+    line-height: 1.5;
+  }
+  .content h3 {
+    font-style: italic;
+    color: #96a2a7;
+  }
+body{
+    background-color: white !important;
+}
+
+
